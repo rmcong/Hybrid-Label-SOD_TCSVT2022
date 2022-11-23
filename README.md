@@ -91,8 +91,8 @@ We use Toolkit [[Link](https://github.com/zyjwuyan/SOD_Evaluation_Metrics)] to o
    @article{HybridSOD,
      title={A weakly supervised learning framework for salient object detection via hybrid labels},
      author={Cong, Runmin and Qin, Qi and Zhang, Chen and Jiang, Qiuping and Wang, Shiqi and Zhao, Yao and Kwong, Sam },
-     journal={IEEE Transactions on Circuits and Systems for Video Technology},
-     year={2022},
+     journal={IEEE Trans. Circuits Syst. Video Technol. },
+     year={early access, doi: 10.1109/TCSVT.2022.3205182},
      publisher={IEEE}
     }
   
