@@ -75,7 +75,7 @@ python test.py ours\state_final.pt
 **Tips**: We use Toolkit [[Link](https://github.com/zyjwuyan/SOD_Evaluation_Metrics)] to obtain the test metrics.
 
 ## Evaluation
-We implement four metrics: MAE(Mean Absolute Error), F-Measure, S-Measure.
+We implement three metrics: MAE (Mean Absolute Error), F-Measure, S-Measure.
 We use Toolkit [[Link](https://github.com/zyjwuyan/SOD_Evaluation_Metrics)] to obtain the test metrics.
 ## Results
 
