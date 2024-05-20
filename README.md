@@ -33,7 +33,7 @@ We also provide ".yaml" files for conda environment configuration, you can downl
  Please follow the tips to download the processed datasets and pre-trained model:
 
  1. Download training data  from [[Link](https://pan.baidu.com/s/1rE24g_NCsAoIUrp4bBrr0A)], code: mvpl.
-2. Download testing data from [[Link](https://pan.baidu.com/s/1qrU_buTa8LpnE3f0GrDqlQ)], code: mvpl.
+2. Download testing data from [[Link](https://pan.baidu.com/s/1VuLhp-hs4jAt17_6V5ZIGA)], code: mvpl.
 
 
 ```python
@@ -79,7 +79,7 @@ We implement three metrics: MAE (Mean Absolute Error), F-Measure, S-Measure.
 We use Toolkit [[Link](https://github.com/zyjwuyan/SOD_Evaluation_Metrics)] to obtain the test metrics.
 ## Results
 
-1. **Qualitative results**: we provide the saliency maps, you can download them from [[Link](https://pan.baidu.com/s/1yDlwuOgqTKkO3LDXqyfQ2w)], code: 0812.
+1. **Qualitative results**: we provide the saliency maps, you can download them from [[Link](https://pan.baidu.com/s/1-BRWR5riSYSVwD916K9Vgw)], code: mvpl.
 2. **Quantitative results**: 
 
 ![image](figures/result.png)
